@@ -1,2 +1,2 @@
 # web_scraper_tools
-My tools for web scaping
+My tools for web scraping
